@@ -1,6 +1,6 @@
 //Variables utiles 
 //Precio base de la cotización, en quetzales, lo puede cambiar
-var precio_base = 2000
+var precio_base = 2000 
 
 //Valores de los recargos 
 var edad_18 = 0.1 // 10%
