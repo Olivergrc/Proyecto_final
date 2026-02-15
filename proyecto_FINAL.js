@@ -100,5 +100,5 @@ if (isNaN(edad_numero) || edad_numero < 18){
   //Resultado
   alert ("Para el asegurado "+nombre)
   alert ("El recargo total sera de: "+recargo_total)
-  alert ("El precio sera de: "+precio_final) 
+  alert ("El precio sera de: "+precio_final)
 }
